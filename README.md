@@ -1,5 +1,6 @@
 CloudflareSpeedTest的图形GUI
 
+<img width="528" height="515" alt="gui" src="https://github.com/user-attachments/assets/f2936589-5af4-4e29-a616-1dc2dc1dd7c5" />
 
 本程序提供cfst的图形操作界面 不包含cfst程序。
 
