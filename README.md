@@ -1,4 +1,4 @@
-CloudflareSpeedTest的图形GUI 高阶版
+CloudflareSpeedTest的图形GUI
 
 <img width="743" height="809" alt="gui" src="https://github.com/user-attachments/assets/a7f561a7-b3d5-438c-9b29-8008bb98b525" />
 
